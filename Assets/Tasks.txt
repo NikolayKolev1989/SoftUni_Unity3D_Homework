@@ -1,0 +1,6 @@
+1. Add input logic into PlayerController.cs script to fly the plane horizontally.
+2. Add input logic into Playercontroller.cs script on Q and E keys to roll the plane by Z axis.
+3. In FollowPlayer.cs script create "smooth follow camera logic". See https://www.youtube.com/watch?v=MFQhpwc6cKE for more info.
+4. Create and attach new script which will "drop" a gameobject from the plane when press a spacebar.
+5. Create a new script and attach it to that cloned object. The script will translate the object down like it's falling.
+6. Destroy the clonned object after 5 seconds.
